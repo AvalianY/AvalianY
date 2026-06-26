@@ -1,6 +1,6 @@
 # Привіт, я Erik 👋
 
-[English](README.md) | [Deutsch](README.de.md)
+[Deutsch](README.md) | [English](README.en.md)
 
 Я початківець **Frontend / Fullstack Developer** з досвідом командних навчальних проектів, адаптивної веброзробки, JavaScript-функціоналу та базової роботи з backend-частиною.
 

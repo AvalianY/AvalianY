@@ -1,24 +1,24 @@
-# Hi, I'm Erik 👋
+# Hi, ich bin Erik 👋
 
-[Українська](README.ua.md) | [Deutsch](README.de.md)
+[Українська](README.ua.md) | [English](README.en.md)
 
-I am a beginner **Frontend / Fullstack Developer** with experience in team-based educational projects, responsive web development, JavaScript functionality, and basic backend development.
+Ich bin ein angehender **Frontend / Fullstack Developer** mit Erfahrung in teamorientierten Lernprojekten, responsiver Webentwicklung, JavaScript-Funktionalität und grundlegender Backend-Entwicklung.
 
-I am currently developing my skills in **HTML, CSS, JavaScript, React, Next.js, Node.js, Git, GitHub, Vite, REST API**, and modern frontend/fullstack workflows. During my studies, I worked on several team projects where I was responsible not only for specific website sections, but also for team coordination as a **Team Lead**.
+Aktuell entwickle ich meine Kenntnisse in **HTML, CSS, JavaScript, React, Next.js, Node.js, Git, GitHub, Vite, REST API** und modernen Frontend-/Fullstack-Workflows weiter. Während meiner Ausbildung habe ich an mehreren Teamprojekten gearbeitet, in denen ich nicht nur für einzelne Website-Sektionen verantwortlich war, sondern auch die Teamkoordination als **Team Lead** übernommen habe.
 
-I am also developing skills in **Data Analytics**, including working with data, SQL, Python, Power BI, Tableau, and analytical metrics.
+Zusätzlich entwickle ich Kenntnisse im Bereich **Data Analytics**, einschließlich Arbeit mit Daten, SQL, Python, Power BI, Tableau und analytischen Kennzahlen.
 
 ---
 
-## About me
+## Über mich
 
-- Frontend / Fullstack development student focused on practical project-based learning.
-- Experience with responsive layouts, semantic HTML, CSS architecture, and JavaScript logic.
-- Worked with API requests, dynamic rendering, filtering, pagination, modals, forms, and UI interactions.
-- Basic experience with React, Next.js, and Node.js.
-- Data Analytics skills: SQL, Python, Power BI, Tableau, metrics analysis, and data visualization.
-- Team Lead experience in educational team projects.
-- Interested in building clean, structured, and user-friendly web applications.
+- Frontend / Fullstack Development Student mit Fokus auf praxisorientiertes Lernen.
+- Erfahrung mit responsiven Layouts, semantischem HTML, CSS-Struktur und JavaScript-Logik.
+- Arbeit mit API-Requests, dynamischem Rendering, Filterung, Pagination, Modalfenstern, Formularen und UI-Interaktionen.
+- Grundkenntnisse in React, Next.js und Node.js.
+- Data-Analytics-Kenntnisse: SQL, Python, Power BI, Tableau, Analyse von Kennzahlen und Datenvisualisierung.
+- Erfahrung als Team Lead in schulischen Teamprojekten.
+- Interesse an sauberen, strukturierten und benutzerfreundlichen Webanwendungen.
 
 ---
 
@@ -42,59 +42,59 @@ I am also developing skills in **Data Analytics**, including working with data, 
 
 ## Featured Projects
 
-### 🐾 Paw Hut / Animal Shelter Website
+### 🐾 Paw Hut / Website für ein Tierheim
 
-Team project: responsive animal shelter website built with JavaScript, Vite, and API integration.
+Teamprojekt: responsive Website für ein Tierheim, entwickelt mit JavaScript, Vite und API-Integration.
 
-**My role:** Team Lead and developer of the **“Our Pets”** section.
+**Meine Rolle:** Team Lead und Entwickler der Sektion **“Our Pets” / “Наші хвостики”**.
 
-**Key contributions:**
+**Wichtige Beiträge:**
 
-- API integration with Axios.
-- Dynamic rendering of pet cards.
-- Category filtering and pagination.
-- Loading/error states.
-- Pet details modal interaction.
-- Team workflow coordination.
+- API-Integration mit Axios.
+- Dynamisches Rendering von Tierkarten.
+- Kategorie-Filterung und Pagination.
+- Verarbeitung von Lade- und Fehlerzuständen.
+- Verbindung der Tierkarten mit einem Detail-Modalfenster.
+- Koordination der Teamarbeit.
 
 [Live Demo](https://avaliany.github.io/pets-team-project/) | [Repository](https://github.com/avaliany/pets-team-project)
 
 ---
 
-### ☕ CoffeeJoy / Coffee Shop Website
+### ☕ CoffeeJoy / Website für ein Café
 
-Team project: responsive landing page for a coffee shop, focused on brand presentation, atmosphere, customer experience, and location information.
+Teamprojekt: responsive Landing Page für ein Café mit Fokus auf Markenpräsentation, Atmosphäre, Kundenerlebnis und Standortinformationen.
 
-**My role:** Team Lead and developer of the **Location** and **Coffee Moments** sections.
+**Meine Rolle:** Team Lead und Entwickler der Sektionen **Location** und **Coffee Moments**.
 
-**Key contributions:**
+**Wichtige Beiträge:**
 
-- Responsive Coffee Moments image gallery.
-- Location section with contacts, address, and route link.
-- Adaptive layout for mobile, tablet, and desktop.
-- Work with Vite partials and component-based structure.
-- Visual consistency with the overall project design.
-- Team coordination.
+- Responsive Bildergalerie für Coffee Moments.
+- Location-Sektion mit Kontaktdaten, Adresse und Link zur Routenplanung.
+- Adaptives Layout für Mobile, Tablet und Desktop.
+- Arbeit mit Partials und komponentenbasierter Struktur in Vite.
+- Sicherstellung eines einheitlichen visuellen Projektstils.
+- Teamkoordination.
 
 [Live Demo](https://drhouseua.github.io/coffe-joy-project/) | [Repository](https://github.com/DrHouseUa/coffe-joy-project)
 
 ---
 
-## Data Analytics Skills
+## Data-Analytics-Kenntnisse
 
-In addition to web development, I am building a foundation in data analytics:
+Neben der Webentwicklung baue ich Kenntnisse im Bereich Datenanalyse auf:
 
-- SQL queries, aggregation, filtering, joins, CTEs, and window functions.
-- Python for data analysis with Pandas, NumPy, Matplotlib, and Seaborn.
-- Dashboards and reports in Power BI and Tableau.
-- Metrics analysis, cohort analysis, conversion analysis, and data visualization.
-- Basic understanding of product and marketing analytics.
+- SQL-Abfragen, Aggregation, Filterung, Joins, CTEs und Window Functions.
+- Python für Datenanalyse mit Pandas, NumPy, Matplotlib und Seaborn.
+- Dashboards und Reports in Power BI und Tableau.
+- Analyse von Kennzahlen, Kohortenanalyse, Conversion-Analyse und Datenvisualisierung.
+- Grundverständnis für Produkt- und Marketing-Analytics.
 
 ---
 
-## Current Focus
+## Aktueller Fokus
 
-I am currently improving my frontend/fullstack development skills, building a strong GitHub portfolio, developing my Data Analytics skills, and preparing for my first professional opportunities in web development.
+Ich verbessere derzeit meine Frontend-/Fullstack-Kenntnisse, baue ein starkes GitHub-Portfolio auf, entwickle meine Data-Analytics-Fähigkeiten weiter und bereite mich auf meine ersten beruflichen Möglichkeiten in der Webentwicklung vor.
 
 ---
 
@@ -106,8 +106,8 @@ I am currently improving my frontend/fullstack development skills, building a st
 
 ---
 
-## Contact
+## Kontakt
 
 - GitHub: [github.com/AvalianY](https://github.com/AvalianY)
-- LinkedIn: add your LinkedIn link here
-- Email: add your email here
+- LinkedIn: LinkedIn-Link hinzufügen
+- Email: E-Mail-Adresse hinzufügen
