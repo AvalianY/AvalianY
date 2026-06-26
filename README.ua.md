@@ -100,14 +100,11 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvalianY&show_icons=true&theme=default)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvalianY&layout=compact&theme=default)
 
 ---
 
 ## Контакти
 
-- GitHub: [github.com/AvalianY](https://github.com/AvalianY)
-- LinkedIn: додай посилання на LinkedIn
-- Email: додай email
+- LinkedIn: www.linkedin.com/in/yervand-avalian
+- Email: avalyan.ervand@gmail.com
