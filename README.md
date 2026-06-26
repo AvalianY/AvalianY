@@ -100,14 +100,11 @@ Ich verbessere derzeit meine Frontend-/Fullstack-Kenntnisse, baue ein starkes Gi
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvalianY&show_icons=true&theme=default)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvalianY&layout=compact&theme=default)
 
 ---
 
 ## Kontakt
 
-- GitHub: [github.com/AvalianY](https://github.com/AvalianY)
-- LinkedIn: LinkedIn-Link hinzufügen
-- Email: E-Mail-Adresse hinzufügen
+- LinkedIn: www.linkedin.com/in/yervand-avalian
+- Email: avalyan.ervand@gmail.com
